@@ -1,0 +1,21 @@
+print ('Aula_1')
+print ()
+print ('-Tipos de Mensagem-')
+print ('Olá, Mundo!')
+print (7 + 3)
+print ('7' + '3')
+print ()
+print ('-Variaveis-')
+print ('_Não Interativas_')
+print ('nome=Dee, idade=17, peso=58,3')
+nome = 'Dee'
+idade = 17
+peso = 58,3
+print (nome, idade, peso)
+print ('_Interativas_')
+print ('nome= input, idade= input, peso= input')
+nome = input ('Qual é seu nome?')
+idade = input ('Qual é sua idade?')
+peso = input ('Qual é seu peso?')
+print (nome, idade, peso)
+print (nome,',', idade,',', peso)
